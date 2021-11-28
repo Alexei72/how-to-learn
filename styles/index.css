@@ -1,0 +1,83 @@
+/* normalize и стили */
+@import url(blocks/normalize.css);
+@import url(blocks/page/page.css);
+@import url(blocks/fonts/font.css);
+/* rotation анимация */
+@import url(blocks/rotation/rotation.css);
+/* header */
+@import url(blocks/page/page.css);
+@import url(blocks/header/header.css);
+@import url(blocks/header/logo_place_header.css);
+@import url(blocks/header/__title.css);
+@import url(blocks/header/__subtitle.css);
+@import url(blocks/header/__link.css);
+@import url(blocks/header/__main-illustration.css);
+@import url(blocks/header/__square-pic.css);
+/* description */
+@import url(blocks/description/description.css);
+@import url(blocks/description/two-columns/two-columns.css);
+@import url(blocks/description/two-columns/__brief.css);
+@import url(blocks/description/two-columns/__main-text.css);
+@import url(blocks/description/two-columns/__paragraph.css);
+@import url(blocks/description/two-columns/__span-accent.css);
+/* techniques */
+@import url(blocks/techniques/techniques.css);
+/* section-title и subtitle будет использоваться несколько раз */
+@import url(blocks/techniques/section-title.css);
+@import url(blocks/techniques/section-subtitle.css);
+/* card */
+@import url(blocks/techniques/card/card.css);
+@import url(blocks/techniques/card/__item.css);
+@import url(blocks/techniques/card/__image.css);
+@import url(blocks/techniques/card/__title.css);
+@import url(blocks/techniques/card/__description.css);
+/* video */
+@import url(blocks/video/__iframes.css);
+@import url(blocks/video/__iframe.css);
+/* oakley, two-columns прописан выше*/
+@import url(blocks/oakley/oakley.css);
+/* feynman */
+@import url(blocks/feynman/feynman.css);
+@import url(blocks/feynman/__titile.css);
+@import url(blocks/feynman/__subtitle.css);
+@import url(blocks/feynman/__link.css);
+/* digits and  table*/
+@import url(blocks/digits/table/table.css);
+@import url(blocks/digits/table/__cell.css);
+@import url(blocks/digits/table/__heading.css);
+@import url(blocks/digits/table/__text.css);
+/* khan */
+@import url(blocks/khan/khan.css);
+@import url(blocks/khan/__container.css);
+@import url(blocks/khan/__author.css);
+@import url(blocks/khan/__title.css);
+@import url(blocks/khan/__qoute.css);
+@import url(blocks/khan/__qoute-author.css);
+@import url(blocks/khan/__qoute-author-subline.css);
+@import url(blocks/khan/__book-container.css);
+@import url(blocks/khan/__book-pic.css);
+@import url(blocks/khan/__book-link.css);
+/* kaufman and _theme_dark*/
+@import url(blocks/kaufman/kaufman.css);
+@import url(blocks/kaufman/section-title_theme_dark.css);
+@import url(blocks/kaufman/section-subtitle_theme_dark.css);
+@import url(blocks/kaufman/table_theme_dark/table_theme_dark.css);
+@import url(blocks/kaufman/table_theme_dark/__cell_theme_dark.css);
+@import url(blocks/kaufman/table_theme_dark/__heading_theme_dark.css);
+@import url(blocks/kaufman/table_theme_dark/__text_theme_dark.css);
+@import url(blocks/kaufman/__triangle/__triangle.css);
+/* resources */
+@import url(blocks/resources/__logo-zone.css);
+@import url(blocks/resources/__logo.css);
+/* footer */
+@import url(blocks/footer/footer.css);
+@import url(blocks/footer/__columns.css);
+@import url(blocks/footer/__columns_content-copyright.css);
+@import url(blocks/footer/__place_footer.css);
+@import url(blocks/footer/__author.css);
+@import url(blocks/footer/__columns_content-info.css);
+@import url(blocks/footer/__columns_content-social.css);
+@import url(blocks/footer/__column-heading.css);
+@import url(blocks/footer/__column-links.css);
+@import url(blocks/footer/__column-link.css);
+@import url(blocks/footer/__social-icon.css);
