@@ -1,7 +1,7 @@
 /* normalize и стили */
 @import url(blocks/normalize.css);
+@import url(blocks/vendor/font.css);
 @import url(blocks/page/page.css);
-@import url(blocks/fonts/font.css);
 /* rotation анимация */
 @import url(blocks/rotation/rotation.css);
 /* header */
