@@ -1,6 +1,6 @@
 /* normalize и стили */
-@import url(../blocks/vendor/normalize.css);
-@import url(../blocks/vendor/font.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/font.css);
 @import url(../blocks/page/page.css);
 /* rotation ../анимация */
 @import url(../blocks/rotation/rotation.css);
@@ -69,9 +69,9 @@
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
-@import url(../blocks/footer/__column/_content/footer__columns_content-copyright.css);
-@import url(../blocks/footer/__column/_content/footer__columns_content-info.css);
-@import url(../blocks/footer/__column/_content/footer__columns_content-social.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_info.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_social.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
